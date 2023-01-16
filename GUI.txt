@@ -31,6 +31,7 @@ class GUI {
 		} catch (IOException e) {
 		      System.out.println("An error occurred.");
 		      e.printStackTrace();
+		      //This is Java CODE for lab 13
 		}
 	}
 	
